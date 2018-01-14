@@ -1,0 +1,2 @@
+org.arquillian.autodeployer.EnableMavenBuildDeploymentAutomaticDeployment
+org.arquillian.autodeployer.EnableFileAutomaticDeployment
